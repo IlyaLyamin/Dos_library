@@ -17,12 +17,11 @@ This library is a set of methods for working with matrices containing real numbe
 ## Team members 
 |Name|Nickname|Role|
 |:--|:--|:--|
-|Lyamin I. S.| Lyamin Ilya | Teamlead |
-|Olkhovik P. I. | Ольховик Павел |- |
-|Alexandrov G. A.| Григорий | - |
-|Nikulin A. A. | Nikulin Alexey | - |
+|Lyamin I. S.| Lyamin Ilya | Teamlead/Software Architect |
+|Olkhovik P. I. | Ольховик Павел | Developer/Software Architect |
+|Alexandrov G. A.| Григорий | Developer |
+|Nikulin A. A. | Nikulin Alexey | Developer |
 |Akimov A. E. | Akimov Anton | - |
-|Kazmin V. V. | kvv23f268 | - |
 
 ## References
 1. [Wikipedia. DOS API](https://en.wikipedia.org/wiki/DOS_API) $-$ all DOS services.
